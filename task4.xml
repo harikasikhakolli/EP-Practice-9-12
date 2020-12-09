@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student-info>
+<student>
+<redgno>5164</redgno>
+<name>harika</name>
+<avg>100</avg>
+<dob>05/09/91</dob>
+<time>12:00</time>
+<mobile no="8977848449"/>
+<distinction>TRUE</distinction>
+</student>
+</student-info>

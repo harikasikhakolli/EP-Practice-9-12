@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+<employee id="10">
+<address>
+  <doorno>10-77</doorno>
+  <street>Main Road</street>
+  <villagetown>Jandrapet</villagetown>
+  <city>Chirala</city>
+  <district>Prakasam</district>
+  <state>A.P</state>
+  <pincode>523165</pincode>
+  <mobileno>8977848449</mobileno>
+</address>
+</employee>
+
+<employee id="12">
+<address>
+  <doorno>8-45</doorno>
+  <street>sanjay gandhi colony</street>
+  <villagetown>ongole</villagetown>
+  <city>ongole</city>
+  <district>Prakasam</district>
+  <state>A.P</state>
+  <pincode>523102</pincode>
+  <mobileno>8019136212</mobileno>
+</address>
+</employee>
+
+</employees>
